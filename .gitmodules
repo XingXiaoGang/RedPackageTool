@@ -1,0 +1,3 @@
+[submodule "module-accessibility"]
+	path = module-accessibility
+	url = https://github.com/XingXiaoGang/module-accessibility.git

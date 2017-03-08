@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">红包助手</string>
+    <string name="introduce">红包助手开启步骤:\n1.点击授权，打开【红包助手】后面的开关\n2.点击【开启】启用红包助手\n说明：\n1.手机必需在Android4.3及以上才能使用\n2.必需允许辅助功能才可以使用\n3.手机不要设置密码锁，否则无法自动打开屏幕\n4.由本app引起的其它问题 本app作者一律免责\n5.作者 @ 小刚qq841076938</string>
+
+
+    <string name="accessibility_service_description">开启以后，红包来时，可自动抢红包 只用于微信 </string>
+    <string name="accessibility_service_label">红包助手</string>
+    <string name="accessibility_target_pkgs">com.tencent.mm</string>
+
+    <!--<string name="accessibility_service_description">开启以后，用adb批量安装应用时，可自动点击确认 </string>-->
+    <!--<string name="accessibility_service_label">自动安装确认</string>-->
+
+
+</resources>
