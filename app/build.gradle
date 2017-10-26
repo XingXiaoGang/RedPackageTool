@@ -35,4 +35,5 @@ android {
 
 dependencies {
     compile project(':module-accessibility')
+//    compile 'xxglibs:lib-accessibility:1.0'
 }
